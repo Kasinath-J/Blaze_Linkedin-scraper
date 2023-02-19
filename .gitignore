@@ -1,0 +1,4 @@
+.env
+current/build
+# current/dist
+current/without_login_selenium.spec

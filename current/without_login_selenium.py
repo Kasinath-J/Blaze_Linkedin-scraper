@@ -1,6 +1,8 @@
 # https://github.com/SergeyPirogov/webdriver_manager
 
-# pyinstaller .\without_login_selenium.py --onefile
+# pyinstaller 
+# cd current
+# .\without_login_selenium.py --onefile
 # use above code to convert it into .exe file
 
 from selenium import webdriver

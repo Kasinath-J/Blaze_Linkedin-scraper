@@ -2,7 +2,7 @@
 
 # pyinstaller 
 # cd current
-# .\without_login_selenium.py --onefile
+# pyinstaller without_login_selenium.py --onefile
 # use above code to convert it into .exe file
 
 from selenium import webdriver
